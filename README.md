@@ -67,6 +67,6 @@ Creating dynamic dashboards using Tableau
 
 Smoothing, differencing, and testing for stationarity in Python
 
-![Live Dashboard]([https://your-image-link.com/image.png](https://public.tableau.com/views/TimeSeriesAnalysisVisualization/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Live Dashboard]([https://your-image-link.com/image.png](https://public.tableau.com/views/TimeSeriesAnalysisVisualization/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
 
 
